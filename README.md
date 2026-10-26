@@ -1,5 +1,8 @@
 # ChatMessageView
 
+> **Note:** This repository contains a version of ChatMessageView modified by Day Delight Inc.
+> See [MODIFICATIONS.md](MODIFICATIONS.md) for the changes and [LICENSE](LICENSE) for the license.
+
 [![Build Status](https://travis-ci.org/bassaer/ChatMessageView.svg?branch=master)](https://travis-ci.org/bassaer/ChatMessageView)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ChatMessageView-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5032)
 [![Download](https://api.bintray.com/packages/tnakayama/ChatMessageView/chatmessageview/images/download.svg) ](https://bintray.com/tnakayama/ChatMessageView/chatmessageview/_latestVersion)

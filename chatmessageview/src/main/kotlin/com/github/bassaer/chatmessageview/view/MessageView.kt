@@ -1,3 +1,12 @@
+/*
+ * This file has been modified by Day Delight Inc. in 2020.
+ * Original: https://github.com/bassaer/ChatMessageView (Copyright 2019 Tsubasa Nakayama)
+ * Changes:
+ *   - Made the MessageView class open so that it can be subclassed.
+ *
+ * Licensed under the Apache License, Version 2.0. See the LICENSE file in the root of this repository.
+ */
+
 package com.github.bassaer.chatmessageview.view
 
 import android.content.Context
